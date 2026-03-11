@@ -1,5 +1,4 @@
-# Project Title
-**Integrating Theorem-Guided Unsupervised Learning and Transcriptomics to Identify Neurodegenerative Modules in an Aβ42 Drosophila Model**
+# **Integrating Theorem-Guided Unsupervised Learning and Transcriptomics to Identify Neurodegenerative Modules in an Aβ42 Drosophila Model**
 
 Brief description: This project analyzes differential gene expression in Drosophila melanogaster, performs clustering, and quantifies transcriptomic complexity using the LMC framework.
 
