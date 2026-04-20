@@ -1,4 +1,4 @@
-# **Integrating Theorem-Guided Unsupervised Learning and Transcriptomics to Identify Neurodegenerative Modules in an Aβ42 Drosophila Model**
+# **A Systematic and Validated Computational Pipeline for Manifold Learning and Transcriptomic Module Discovery with Information-Theoretic Evaluation**
 
 Brief description: This project analyzes differential gene expression in Drosophila melanogaster, performs clustering, and quantifies transcriptomic complexity using the LMC framework.
 
